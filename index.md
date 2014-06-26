@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 首页 - why520crazy 的博客
-tagline: Supporting tagline
+title: why520crazy
+tagline: @why520crazy
 ---
 {% include JB/setup %}
 
