@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 首页 - why520crazy 的博客
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
