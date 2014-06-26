@@ -3,24 +3,19 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-name : Kaitu
-markdown : redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables",     "with_toc_data"]
 pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-
-title : KaiTu
-tagline: Computer Science Algorithm
-author : 
-  name : Dong Bo
-  email : dbkaiser@gmail.com
-  github : dbkaiser
-  twitter : dbkaiser
-  feedburner : dbkaiser
+title : Jekyll Bootstrap
+tagline: Site Tagline
+author :
+  name : Name Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -30,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://dbkaiser.github.io
+production_url : http://username.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -105,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-35823502-2'
+        tracking_id : 'UA-123-12'
     getclicky :
       site_id : 
     mixpanel :
