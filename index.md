@@ -1,7 +1,7 @@
 ---
 layout: page
 title: why520crazy
-tagline: @why520crazy
+tagline: why520crazy
 ---
 {% include JB/setup %}
 
